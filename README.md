@@ -1,4 +1,6 @@
-# JavaScript Algorithms and Data Structures
+# Random Background Color Generator || JavaScript Algorithms and Data Structures
+
+https://celes-sb.github.io/randomBackgroundColor-js/
 
 Welcome to the JavaScript Algorithms and Data Structures repository! This project is part of the JavaScript Algorithms and Data Structures curriculum.
 
