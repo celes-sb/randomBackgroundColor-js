@@ -83,9 +83,9 @@ function RandomBackground() {
   return (
     <>
       <div className={styles.description}>
-        <h1>
+        <h2>
           Hex Code: <span id="bg-hex-code">{color}</span>
-        </h1>
+        </h2>
         <button
           className={styles.button}
           id="btn"

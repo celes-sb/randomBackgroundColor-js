@@ -3,14 +3,14 @@
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  padding: 6rem;
+  padding: 5rem;
   min-height: 100vh;
 }
 
 .description {
   display: flex;
   flex-direction: column;
-  justify-content: inherit;
+  justify-content: center;
   align-items: center;
   font-size: 0.85rem;
   max-width: var(--max-width);
@@ -38,7 +38,7 @@
   transition: transform 200ms;
 }
 
-.card h2 {
+.card h1 {
   font-weight: 600;
   margin-bottom: 0.7rem;
 }
@@ -100,7 +100,7 @@
 
 /* Mobile */
 @media (max-width: 700px) {
-  .content {
+  .main {
     padding: 4rem;
   }
 
@@ -124,13 +124,12 @@
   .description div {
     display: flex;
     justify-content: center;
+    align-items: center;
     position: fixed;
     width: 100%;
   }
 
   .description p {
-    align-items: center;
-    inset: 0 0 auto;
     padding: 2rem 1rem 1.4rem;
     border-radius: 0;
     border: none;
@@ -145,8 +144,6 @@
   }
 
   .description div {
-    align-items: center;
-    pointer-events: none;
     padding: 2rem;
     height: 200px;
     background: linear-gradient(
