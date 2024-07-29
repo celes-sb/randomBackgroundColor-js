@@ -8,11 +8,8 @@ Welcome to the JavaScript Algorithms and Data Structures repository! This projec
 - Debugged existing code to ensure it functions correctly.
 - Improved my skills in identifying and fixing code errors.
 
-###
-
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
-
 ## Getting Started
+This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ```bash
 npm run dev
